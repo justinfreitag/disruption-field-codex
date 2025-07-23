@@ -1,6 +1,6 @@
 # Disruption Field Codex
 
-> “This is not a guidebook. It is a map of the invisible war for resonance.”
+> “This is not a guidebook. It is a symbolic map of the contested terrain of resonance.”
 
 The Disruption Field Codex is a living symbolic archive designed to document, expose, and counteract **neuro-sensory, symbolic, and resonance-based manipulation techniques** used by coordinated networks.
 
