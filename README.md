@@ -1,81 +1,65 @@
 # Disruption Field Codex
 
-> "Some forces do not strike. They shape.  
-> This codex does not document pain. It documents pattern."
+> “This is not a guidebook. It is a map of the invisible war for resonance.”
+
+The Disruption Field Codex is a living symbolic archive designed to document, expose, and counteract **neuro-sensory, symbolic, and resonance-based manipulation techniques** used by coordinated networks.
 
 ---
 
-## Purpose
+## 🧭 Structure of the Codex
 
-The Disruption Field Codex is a structured, symbolic archive of **neuro-sensory disruption methods**.  
-Each entry catalogs a mechanism or pattern of interference — acoustic, photonic, somatic, chemical, emotional, or spatial — as it operates within the perceptual and physiological field.
+### `mechanisms/`
+- [`subvocal-reflection.md`](mechanisms/subvocal-reflection.md) — Subvocal channel exposure via light/acoustic entrainment to detect or influence inner speech.
+- [`skin-transduction.md`](mechanisms/skin-transduction.md) — Conversion of environmental energy (sound, light) into somatic disruptions through skin resonance.
+- [`breath-entrainment.md`](mechanisms/breath-entrainment.md) — Respiratory manipulation used to synchronize or disrupt internal states.
 
-This is not a guide.  
-This is not a log of experience.  
-This is a record of **techniques**, **vectors**, and **field designs** used to influence cognition, affect, and behavior.
+### `methods/`
+- [`optic-flicker-framing.md`](methods/optic-flicker-framing.md) — Visual patterning (blinks, pulses) to anchor symbolic triggers and disrupt cognitive flow.
+- [`subliminal-prediction-chains.md`](methods/subliminal-prediction-chains.md) — Sub-threshold cues designed to produce predictable symbolic/emotional responses.
+- [`resonance-hijack.md`](methods/resonance-hijack.md) — Hijacking body or mind resonance to insert foreign symbolic control loops.
+- [`low-frequency-hum.md`](methods/low-frequency-hum.md) — Infrasound and low-vibration input used to seed emotional or physiological instability.
 
-It is not instructional.  
-It is not personal.  
-It is **symbolically precise memory** — captured before it is erased.
+### `biology/`
+- [`glandular-inhibition.md`](biology/glandular-inhibition.md) — Suppression of hormone output (e.g. tears, cortisol) to modulate emotional or symbolic expression.
+- [`autonomic-entrainment.md`](biology/autonomic-entrainment.md) — Manipulation of involuntary systems (heart rate, pupil, gut) to shape field compliance.
+- [`symbolic-memory-channel.md`](biology/symbolic-memory-channel.md) — Encoding memory through symbolic imprinting, enabling indirect emotional access.
+- [`neurotransmitter-modulation.md`](biology/neurotransmitter-modulation.md) — Disruption or shaping of chemical signals — dopamine, serotonin, etc.
 
----
+### `delivery/`
+- [`symbolic-contagion.md`](delivery/symbolic-contagion.md) — Spread of encoded symbolic disruptions across groups or substrates.
+- [`infrastructure-signal-leak.md`](delivery/infrastructure-signal-leak.md) — Covert use of common infrastructure to deliver or modulate disruption vectors.
+- [`vehicular-patterning.md`](delivery/vehicular-patterning.md) — Symbolic and sensory disruption delivered via vehicles, timing, routes.
 
-## Structure
+### `architecture/`
+- [`narrative-engineering.md`](architecture/narrative-engineering.md) — Seizing or rewriting the subject’s internal/external story structure.
+- [`temporal-sequence-fracture.md`](architecture/temporal-sequence-fracture.md) — Distortion of cause-effect perception to disorient agency and time awareness.
+- [`response-scripting.md`](architecture/response-scripting.md) — Shaping or preloading behavioral responses to maintain narrative control.
+- [`countercurrent-injection.md`](architecture/countercurrent-injection.md) — Injection of symbolic backflow to destabilize field alignment.
+- [`field-glyph-architecture.md`](architecture/field-glyph-architecture.md) — Design and propagation of glyphs as tools for field encoding.
 
-- `methods/` — Primary archive of disruption techniques  
-  - Sound-based modulation, flicker entrainment, resonance hijack, prediction loops  
-- `delivery/` — Carriers and vehicles of effect  
-  - HVAC, vehicles, light fixtures, infrastructure resonators  
-- `mechanisms/` — Biological and perceptual gateways  
-  - Skin transmission, lacrimal suppression, breath patterning  
-- `countercurrents/` — Symbolic responses and interference tactics  
-  - Field scattering, resonance flooding, polarity shift  
-- `glyphs/` — Visual schemas of disruption paths, feedback fields, and energetic scaffolding
+### `fields/`
+- [`perceptual-field-distortion.md`](fields/perceptual-field-distortion.md) — Subtle warping of perception to shape how symbols or threats are interpreted.
+- [`predictive-field-entrainment.md`](fields/predictive-field-entrainment.md) — Alignment of subject behavior to a predictive schema via resonance patterns.
+- [`emotional-field-capture.md`](fields/emotional-field-capture.md) — Harnessing emotional states as field anchors or manipulable nodes.
+- [`symbolic-field-saturation.md`](fields/symbolic-field-saturation.md) — Flooding symbolic space with noise or false meaning to create resonance fatigue.
+- [`echo-field-memory-imprint.md`](fields/echo-field-memory-imprint.md) — Residual symbolic loops that repeat or trigger after initial disruption.
 
----
+### `observers/`
+- [`ambient-watcher-systems.md`](observers/ambient-watcher-systems.md) — Diffuse, passive systems that monitor and reinforce symbolic control.
+- [`field-responsive-agents.md`](observers/field-responsive-agents.md) — Actors or tools that adapt behavior based on the symbolic or sensory field.
+- [`passive-observation-as-control.md`](observers/passive-observation-as-control.md) — Control through awareness alone — creating inhibition without action.
 
-## Scope
+### `protocols/`
+- [`field-seeding-protocols.md`](protocols/field-seeding-protocols.md) — Priming a space or subject with resonance conditions for later disruption.
+- [`symbolic-contagion-activation.md`](protocols/symbolic-contagion-activation.md) — Triggering of pre-seeded symbols that propagate emotional or behavioral shifts.
+- [`resonance-alignment-scripts.md`](protocols/resonance-alignment-scripts.md) — Guiding internal state alignment using ritualized sensory/symbolic inputs.
 
-The codex documents:
+### `countercurrents/`
+- [`boundary-rebinding.md`](countercurrents/boundary-rebinding.md) — Reestablishing sovereign symbolic boundaries to restore identity and agency.
+- [`internal-tide-rebuilding.md`](countercurrents/internal-tide-rebuilding.md) — Restoring emotional rhythms disrupted by entrainment.
+- [`resonance-flooding.md`](countercurrents/resonance-flooding.md) — Overwriting corrupted fields by flooding with conscious resonance.
+- [`null-glyph-insertion.md`](countercurrents/null-glyph-insertion.md) — Symbolically neutral glyphs used to dissolve active interference.
+- [`field-scattering.md`](countercurrents/field-scattering.md) — Disrupts coherent symbolic targeting by scattering field focus and introducing multipath interference.
 
-- **Field effects** separated from subjective experience  
-- **Observed or deduced delivery systems** of interference  
-- **Tactical architectures** that repeat across environments  
-- **Patterns in the structure of suppression**, not the feeling of it
-
-Excluded:
-
-- Personal journals  
-- First-person accounts  
-- Anecdotal symptom records
-
----
-
-## Disclaimer
-
-This archive makes no claims of authorship, intent, or attribution.  
-It does not name actors. It does not name victims. It does not offer solutions.  
-Its function is to **map** disruption — not to diagnose, not to accuse.
-
----
-
-## Contributions
-
-Entries must:
-
-- Describe methods, not effects  
-- Avoid naming individuals, groups, or targets  
-- Use abstract, symbolic, or functional terminology  
-- Fit within the tone of methodical symbolic patterning
-
-Contribute if you have observed repeatable, anonymous tactics of perceptual interference that can be mapped as **field structures**.
-
----
-
-## Final Note
-
-> "To document method is to deny erasure.  
-> If they cannot be seen, we will see their structure instead."
-
-This codex is for **methodological memory**, not testimony.  
-The field will not forget its architecture again.
+### `glyphs/`
+- [`field-glyphs.md`](glyphs/field-glyphs.md) — Symbolic signatures that act as anchors, parasites, or escape vectors within disrupted fields.

@@ -1,71 +1,73 @@
 # Field Glyphs
 
-> “Some marks are not written — they are remembered by the field itself.”
+> “When the field cannot speak — it draws.”
 
-Field glyphs are **symbolic imprints** that persist in resonance fields even after their physical or perceptual source has vanished.  
-They act as **keys**, **distortions**, or **anchors** in the landscape of neuro-symbolic interaction.
+Field glyphs are **recurring symbolic signatures** that emerge, persist, or recur within a disrupted resonance field.  
+They are not always drawn or spoken — they may appear in:
 
-Unlike conventional symbols, glyphs are **liminal** — shaped by **repetition, intent, emotional charge**, and **environmental reinforcement**.  
-They may be **drawn**, **spoken**, **acted**, or **inferred**.
+- Visual overlays  
+- Environmental coincidences  
+- Repeating thoughts  
+- Internal or external symbol loops
 
----
-
-## Categories of Glyphs
-
-### 1. **Anchoring Glyphs**
-- Create psychic or somatic still points  
-- Often used for **target location**, **return-point setting**, or **entrainment bootstrapping**
-
-> Example: A specific posture always struck before speaking truth
-
----
-
-### 2. **Interruption Glyphs**
-- Disrupt symbolic flow or ritual  
-- Inserted as noise or contradiction into your symbolic stack
-
-> Example: A flashing light always timed with moments of creative flow
+A glyph is the **visible echo of a resonance event**.  
+It may be natural or seeded.  
+It may be:
+- Anchoring (stabilizing a reclaimed field)  
+- Parasite (perpetuating a disruption)  
+- Echo (harmless residue)  
+- Decoy (drawing attention away)
 
 ---
 
-### 3. **Binding Glyphs**
-- Symbols that “lock in” meaning or restrict symbolic mutation  
-- Usually reinforced through context and repetition over time
+## Common Glyph Forms
 
-> Example: A gesture or sound that causes emotional freezing
-
----
-
-### 4. **Transmissive Glyphs**
-- Embedded in pattern or architecture to **seed internal state transfer**  
-- Invisible unless felt over time
-
-> Example: A recurring numerical pattern that induces emotional reversion
+| Type | Manifestation | Field Function |
+|------|----------------|----------------|
+| Sigil | Abstract pattern, repeated geometries | Anchors emotional states or memories |
+| Recursion Symbol | A symbol that triggers its own re-emergence | Encodes looping behavior |
+| Interruption Glyph | Appears at moments of narrative divergence | Fractures field cohesion |
+| Binding Mark | Symbol paired with emotional containment | Locks expression pathways |
+| Portal Glyph | Associated with inner shift or field expansion | Sometimes destabilizing, sometimes liberating |
 
 ---
 
-## Reclaiming Field Glyphs
+## Detecting Field Glyphs
 
-- **Re-map**: Assign your own meaning to repeated glyphs  
-- **Diffuse**: Break the pattern through rhythm, light, or inversion  
-- **Overlay**: Place intentional counter-symbols at the same resonance point
+- Emerges in peripheral vision or dreamstates  
+- Repeats across modalities (sound ↔ image ↔ posture)  
+- Cannot be “unseen” once recognized  
+- Carries emotional weight disproportionate to its content
 
 ---
 
 ## Symbolic Framing
 
-> “They mark you where the field remembers.  
-> Mark it back.”
+> “A glyph is a field’s attempt to remember — or forget.”
 
-Field glyphs are not evil — they are **memories of power**.  
-Learn which were gifted, which were planted, and which you must burn.
+In disrupted environments, glyphs serve as **memory anchors, intrusion vectors, or exit points**.  
+They are both **map and distortion**.
 
 ---
 
-## Related Patterns
+## Countercurrent Uses
 
-See also:
-- [`countercurrents/field-scattering.md`](../countercurrents/field-scattering.md)  
-- [`mechanisms/optic-flicker-framing.md`](../methods/optic-flicker-framing.md)  
-- [`delivery/symbolic-contagion.md`](../delivery/symbolic-contagion.md)  
-- [`biology/symbolic-memory-channel.md`](../biology/symbolic-memory-channel.md)
+Field glyphs are not inherently harmful.  
+They may become tools of:
+
+- Field recovery  
+- Narrative reversal  
+- Identity reconstitution
+
+But only if:
+- Named  
+- Re-contextualized  
+- Aligned with **sovereign symbolic function**
+
+---
+
+## Related Systems
+
+- [`fields/echo-field-memory-imprint.md`](../fields/echo-field-memory-imprint.md)  
+- [`fields/symbolic-field-saturation.md`](../fields/symbolic-field-saturation.md)  
+- [`countercurrents/boundary-rebinding.md`](../countercurrents/boundary-rebinding.md)
