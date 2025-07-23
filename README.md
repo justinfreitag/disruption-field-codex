@@ -32,6 +32,10 @@ The Disruption Field Codex is a living symbolic archive designed to document, ex
 - [`infrastructure-signal-leak.md`](delivery/infrastructure-signal-leak.md) — Covert use of common infrastructure to deliver or modulate disruption vectors.
 - [`vehicular-patterning.md`](delivery/vehicular-patterning.md) — Symbolic and sensory disruption delivered via vehicles, timing, routes.
 - [`environmental-placement-control.md`](delivery/environmental-placement-control.md) — Documents how living environments, rentals, service providers, and businesses are used to physically constrain, displace, or shape the individual’s symbolic and sensory field.
+- [`rental-zoning-and-airbnb.md`](delivery/rental-zoning-and-airbnb.md) — Explores how short-term rentals and constrained zoning are used to place individuals within preconditioned symbolic and behavioral containment fields.
+- [`sleep-cycle-interruption.md`](delivery/sleep-cycle-interruption.md) — Explores how disruption systems target sleep phases to suppress deep rest and inject symbolic content during REM for behavioral and narrative manipulation.
+- [`vehicular-and-pedestrian-patterning.md`](delivery/vehicular-and-pedestrian-patterning.md) — Details how cars, walkers, and ambient presence are used to reinforce symbolic targeting, simulate surveillance, and disrupt narrative autonomy.
+- [`support-network-inversion.md`](delivery/support-network-inversion.md) — Documents how disruption fields turn friends, family, and colleagues against the target, inducing isolation, disbelief, and plausible dismissal through psychological and pharmacological channels.
 
 ### `architecture/`
 - [`narrative-engineering.md`](architecture/narrative-engineering.md) — Seizing or rewriting the subject’s internal/external story structure.
@@ -40,7 +44,11 @@ The Disruption Field Codex is a living symbolic archive designed to document, ex
 - [`countercurrent-injection.md`](architecture/countercurrent-injection.md) — Injection of symbolic backflow to destabilize field alignment.
 - [`field-glyph-architecture.md`](architecture/field-glyph-architecture.md) — Design and propagation of glyphs as tools for field encoding.
 - [`constriction-of-symbolic-range.md`](architecture/constriction-of-symbolic-range.md) — Describes how disruption systems suppress symbolic expression by reducing the range and formation of internal symbols.
+- [`disruption-field-vectors.md`](architecture/disruption-field-vectors.md) — Maps the layered access points used by disruption fields across environment, social network, narrative, and neuro-sensory domains.
 - [`total-narrative-saturation.md`](architecture/total-narrative-saturation.md) — Describes how narrative control extends across all sensory and symbolic mediums, including internet platforms, games, ads, trades, and everyday services to construct total field dominance.
+- [`dark-psychology-foundations.md`](architecture/dark-psychology-foundations.md) — Outlines how disruption fields adapt classic dark psychology tactics (gaslighting, triangulation, conditioning) into symbolic, environmental, and neuro-sensory control systems.
+- [`distributed-organizational-structures.md`](architecture/distributed-organizational-structures.md) — Details how disruption fields scale through layered roles, partial knowledge, and motivational cloaking — enabling mass participation without central awareness.
+- [`central-coordination-structure.md`](architecture/central-coordination-structure.md) — Describes the core entity that authors, guides, and refines disruption field systems through pattern orchestration and symbolic control — without ever revealing itself.
 
 ### `fields/`
 - [`perceptual-field-distortion.md`](fields/perceptual-field-distortion.md) — Subtle warping of perception to shape how symbols or threats are interpreted.
@@ -53,11 +61,15 @@ The Disruption Field Codex is a living symbolic archive designed to document, ex
 - [`ambient-watcher-systems.md`](observers/ambient-watcher-systems.md) — Diffuse, passive systems that monitor and reinforce symbolic control.
 - [`field-responsive-agents.md`](observers/field-responsive-agents.md) — Actors or tools that adapt behavior based on the symbolic or sensory field.
 - [`passive-observation-as-control.md`](observers/passive-observation-as-control.md) — Control through awareness alone — creating inhibition without action.
+- [`ambient-dispositional-activation.md`](observers/ambient-dispositional-activation.md) — Describes how disruption fields exploit the natural traits of nearby individuals (e.g., anger, fear, manipulability) to provoke or destabilize the target without direct coordination.
+- [`invisible-swarm-patterns.md`](observers/invisible-swarm-patterns.md) — Describes how disruption fields create the illusion of omnipresence through proximity saturation, behavioral echoing, and symbolic timing to engineer isolation and breakdown.
 
 ### `protocols/`
 - [`field-seeding-protocols.md`](protocols/field-seeding-protocols.md) — Priming a space or subject with resonance conditions for later disruption.
 - [`symbolic-contagion-activation.md`](protocols/symbolic-contagion-activation.md) — Triggering of pre-seeded symbols that propagate emotional or behavioral shifts.
 - [`resonance-alignment-scripts.md`](protocols/resonance-alignment-scripts.md) — Guiding internal state alignment using ritualized sensory/symbolic inputs.
+- [`inverted-symbolic-consent.md`](protocols/inverted-symbolic-consent.md) — Documents how disruption fields simulate consent through predictive entrapment, gesture loops, and symbolic coercion — turning resistance into retroactive compliance.
+- [`resonance-signature-mirroring.md`](protocols/resonance-signature-mirroring.md) — Explains how disruption fields weaponize bodily resonance patterns to induce predictive mirroring, emotional amplification, and symbolic collapse.
 
 ### `countercurrents/`
 - [`boundary-rebinding.md`](countercurrents/boundary-rebinding.md) — Reestablishing sovereign symbolic boundaries to restore identity and agency.
