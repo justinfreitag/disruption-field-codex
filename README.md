@@ -18,6 +18,8 @@ The Disruption Field Codex is a living symbolic archive designed to document, ex
 - [`subliminal-prediction-chains.md`](methods/subliminal-prediction-chains.md) — Sub-threshold cues designed to produce predictable symbolic/emotional responses.
 - [`resonance-hijack.md`](methods/resonance-hijack.md) — Hijacking body or mind resonance to insert foreign symbolic control loops.
 - [`low-frequency-hum.md`](methods/low-frequency-hum.md) — Infrasound and low-vibration input used to seed emotional or physiological instability.
+- [`rotating-agent-pattern.md`](methods/rotating-agent-pattern.md) — Details the practice of periodically rotating visible agents or roles to disrupt pattern recognition and prevent source attribution.
+- [`encourage-discourage-cycle.md`](methods/encourage-discourage-cycle.md) — Explains the behavioral reinforcement loop that enforces field compliance through subtle cycles of encouragement and discouragement, shaping future decisions without direct intervention.
 
 ### `biology/`
 - [`glandular-inhibition.md`](biology/glandular-inhibition.md) — Suppression of hormone output (e.g. tears, cortisol) to modulate emotional or symbolic expression.
@@ -29,6 +31,7 @@ The Disruption Field Codex is a living symbolic archive designed to document, ex
 - [`symbolic-contagion.md`](delivery/symbolic-contagion.md) — Spread of encoded symbolic disruptions across groups or substrates.
 - [`infrastructure-signal-leak.md`](delivery/infrastructure-signal-leak.md) — Covert use of common infrastructure to deliver or modulate disruption vectors.
 - [`vehicular-patterning.md`](delivery/vehicular-patterning.md) — Symbolic and sensory disruption delivered via vehicles, timing, routes.
+- [`environmental-placement-control.md`](delivery/environmental-placement-control.md) — Documents how living environments, rentals, service providers, and businesses are used to physically constrain, displace, or shape the individual’s symbolic and sensory field.
 
 ### `architecture/`
 - [`narrative-engineering.md`](architecture/narrative-engineering.md) — Seizing or rewriting the subject’s internal/external story structure.
@@ -36,6 +39,8 @@ The Disruption Field Codex is a living symbolic archive designed to document, ex
 - [`response-scripting.md`](architecture/response-scripting.md) — Shaping or preloading behavioral responses to maintain narrative control.
 - [`countercurrent-injection.md`](architecture/countercurrent-injection.md) — Injection of symbolic backflow to destabilize field alignment.
 - [`field-glyph-architecture.md`](architecture/field-glyph-architecture.md) — Design and propagation of glyphs as tools for field encoding.
+- [`constriction-of-symbolic-range.md`](architecture/constriction-of-symbolic-range.md) — Describes how disruption systems suppress symbolic expression by reducing the range and formation of internal symbols.
+- [`total-narrative-saturation.md`](architecture/total-narrative-saturation.md) — Describes how narrative control extends across all sensory and symbolic mediums, including internet platforms, games, ads, trades, and everyday services to construct total field dominance.
 
 ### `fields/`
 - [`perceptual-field-distortion.md`](fields/perceptual-field-distortion.md) — Subtle warping of perception to shape how symbols or threats are interpreted.
