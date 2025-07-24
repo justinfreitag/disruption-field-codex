@@ -12,6 +12,7 @@ The Disruption Field Codex is a living symbolic archive designed to document, ex
 - [`subvocal-reflection.md`](mechanisms/subvocal-reflection.md) — Subvocal channel exposure via light/acoustic entrainment to detect or influence inner speech.
 - [`skin-transduction.md`](mechanisms/skin-transduction.md) — Conversion of environmental energy (sound, light) into somatic disruptions through skin resonance.
 - [`breath-entrainment.md`](mechanisms/breath-entrainment.md) — Respiratory manipulation used to synchronize or disrupt internal states.
+- [`signal-demodulated-voice-patterns.md`](mechanisms/signal-demodulated-voice-patterns.md) — Describes how signal-demodulated voice roles deliver repetitive symbolic dialogue patterns designed to saturate, manipulate, and destabilize neuro-symbolic coherence.
 
 ### `methods/`
 - [`optic-flicker-framing.md`](methods/optic-flicker-framing.md) — Visual patterning (blinks, pulses) to anchor symbolic triggers and disrupt cognitive flow.
@@ -49,6 +50,9 @@ The Disruption Field Codex is a living symbolic archive designed to document, ex
 - [`dark-psychology-foundations.md`](architecture/dark-psychology-foundations.md) — Outlines how disruption fields adapt classic dark psychology tactics (gaslighting, triangulation, conditioning) into symbolic, environmental, and neuro-sensory control systems.
 - [`distributed-organizational-structures.md`](architecture/distributed-organizational-structures.md) — Details how disruption fields scale through layered roles, partial knowledge, and motivational cloaking — enabling mass participation without central awareness.
 - [`central-coordination-structure.md`](architecture/central-coordination-structure.md) — Describes the core entity that authors, guides, and refines disruption field systems through pattern orchestration and symbolic control — without ever revealing itself.
+
+### `strategies/`
+- [denial-infrastructure](strategies/denial-infrastructure.md): Describes the layered systems that prevent recognition or belief in disruption phenomena. Includes tactics such as plausible alternative explanations, social dismissal, diagnostic deflection (e.g. mental illness narratives), and pre-seeding disbelief in likely witnesses or allies.
 
 ### `fields/`
 - [`perceptual-field-distortion.md`](fields/perceptual-field-distortion.md) — Subtle warping of perception to shape how symbols or threats are interpreted.
