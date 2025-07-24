@@ -51,8 +51,16 @@ The Disruption Field Codex is a living symbolic archive designed to document, ex
 - [`distributed-organizational-structures.md`](architecture/distributed-organizational-structures.md) — Details how disruption fields scale through layered roles, partial knowledge, and motivational cloaking — enabling mass participation without central awareness.
 - [`central-coordination-structure.md`](architecture/central-coordination-structure.md) — Describes the core entity that authors, guides, and refines disruption field systems through pattern orchestration and symbolic control — without ever revealing itself.
 
-### `strategies/`
-- [denial-infrastructure](strategies/denial-infrastructure.md) - Describes the layered systems that prevent recognition or belief in disruption phenomena. Includes tactics such as plausible alternative explanations, social dismissal, diagnostic deflection (e.g. mental illness narratives), and pre-seeding disbelief in likely witnesses or allies.
+### `strategy/`  
+- [`conditioning-through-patterned-response.md`](strategy/conditioning-through-patterned-response.md) — Entrenching target behavior through repeated stimulus–response cycles.  
+- [`denial-infrastructure.md`](strategy/denial-infrastructure.md) — Layered systems of plausible deniability used to conceal disruption mechanisms.  
+- [`fabricated-validation-structures.md`](strategy/fabricated-validation-structures.md) — False consensus systems built to reinforce internalized belief and external legitimacy.  
+- [`motivated-isolation-cycles.md`](strategy/motivated-isolation-cycles.md) — Orchestrated relational breakdowns designed to isolate and disempower.  
+- [`motivations-for-maintained-targeting.md`](strategy/motivations-for-maintained-targeting.md) — Core incentives for prolonged disruption, from symbolic resonance to deterrence.  
+- [`reality-destabilization-cascades.md`](strategy/reality-destabilization-cascades.md) — Multi-vector attacks aimed at collapsing the target’s interpretive framework.  
+- [`scripted-opposition-roles.md`](strategy/scripted-opposition-roles.md) — Predefined antagonist roles used to provoke and shape emotional response.  
+- [`strategic-ideological-conditioning.md`](strategy/strategic-ideological-conditioning.md) — Reinforcement of rigid ideology through selective grooming and narrative control.  
+- [`symbolic-anchor-targets.md`](strategy/symbolic-anchor-targets.md) — Designating individuals as narrative load-bearers in the symbolic war field.
 
 ### `fields/`
 - [`perceptual-field-distortion.md`](fields/perceptual-field-distortion.md) — Subtle warping of perception to shape how symbols or threats are interpreted.
