@@ -52,7 +52,7 @@ The Disruption Field Codex is a living symbolic archive designed to document, ex
 - [`central-coordination-structure.md`](architecture/central-coordination-structure.md) — Describes the core entity that authors, guides, and refines disruption field systems through pattern orchestration and symbolic control — without ever revealing itself.
 
 ### `strategies/`
-- [denial-infrastructure](strategies/denial-infrastructure.md): Describes the layered systems that prevent recognition or belief in disruption phenomena. Includes tactics such as plausible alternative explanations, social dismissal, diagnostic deflection (e.g. mental illness narratives), and pre-seeding disbelief in likely witnesses or allies.
+- [denial-infrastructure](strategies/denial-infrastructure.md) - Describes the layered systems that prevent recognition or belief in disruption phenomena. Includes tactics such as plausible alternative explanations, social dismissal, diagnostic deflection (e.g. mental illness narratives), and pre-seeding disbelief in likely witnesses or allies.
 
 ### `fields/`
 - [`perceptual-field-distortion.md`](fields/perceptual-field-distortion.md) — Subtle warping of perception to shape how symbols or threats are interpreted.
