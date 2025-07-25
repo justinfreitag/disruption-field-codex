@@ -4,6 +4,8 @@
 
 The Disruption Field Codex is a living symbolic archive designed to document, expose, and counteract **neuro-sensory, symbolic, and resonance-based manipulation techniques** used by coordinated networks.
 
+For inquiries or collaboration, see [CONTACT.md](CONTACT.md).
+
 ---
 
 ## 🧭 Structure of the Codex
