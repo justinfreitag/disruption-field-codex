@@ -15,6 +15,17 @@ For inquiries or collaboration, see [CONTACT.md](CONTACT.md).
 - [`skin-transduction.md`](mechanisms/skin-transduction.md) — Conversion of environmental energy (sound, light) into somatic disruptions through skin resonance.
 - [`breath-entrainment.md`](mechanisms/breath-entrainment.md) — Respiratory manipulation used to synchronize or disrupt internal states.
 - [`signal-demodulated-voice-patterns.md`](mechanisms/signal-demodulated-voice-patterns.md) — Describes how signal-demodulated voice roles deliver repetitive symbolic dialogue patterns designed to saturate, manipulate, and destabilize neuro-symbolic coherence.
+- [`high-frequency-audio-stimulation.md`](mechanisms/high-frequency-audio-stimulation.md) — Sustained use of 8–10kHz tones to induce agitation, reinforce symbols, and disrupt sleep or cognition.
+- [`coercive-frequency-pairing.md`](mechanisms/coercive-frequency-pairing.md) — Binding emotional responses to specific frequencies to reinforce compliance or rejection behavior.
+- [`directional-sound-deployment.md`](mechanisms/directional-sound-deployment.md) — Use of directed acoustic beams to deliver symbolic or disruptive content to the target alone.
+- [`entrainment-through-tonal-fixation.md`](mechanisms/entrainment-through-tonal-fixation.md) — Repetitive tonal structures used to lock the subject’s attention and lower cognitive resistance.
+- [`high-frequency-audio-stimulation.md`](mechanisms/high-frequency-audio-stimulation.md) — Prolonged exposure to tinnitus-like ranges (8–10 kHz) to heighten stress and erode mental resilience.
+- [`mnemonic-loop-insertion.md`](mechanisms/mnemonic-loop-insertion.md) — Implantation of short symbolic phrases via repetition until self-reinforcing memory loops form.
+- [`resonant-hum-deployment.md`](mechanisms/resonant-hum-deployment.md) — Deployment of ambient hums aligned to the body's natural resonance bands to induce lethargy or suggestibility.
+- [`somatic-response-looping.md`](mechanisms/somatic-response-looping.md) — Pairing internal body sensations with symbolic cues to create involuntary associative triggers.
+- [`sub-audible-frequency-priming.md`](mechanisms/sub-audible-frequency-priming.md) — Use of low-frequency sounds below conscious perception to modulate mood and attention baselines.
+- [`symbolic-audio-patterns.md`](mechanisms/symbolic-audio-patterns.md) — Rhythmic or melodic constructs used to deliver symbolic payloads masked as ambient audio.
+- [`symbolic-phrase-conditioning.md`](mechanisms/symbolic-phrase-conditioning.md) — Behavioral shaping through repetition of emotionally charged symbolic phrases in varied tonal registers.
 
 ### `methods/`
 - [`optic-flicker-framing.md`](methods/optic-flicker-framing.md) — Visual patterning (blinks, pulses) to anchor symbolic triggers and disrupt cognitive flow.
@@ -70,6 +81,10 @@ For inquiries or collaboration, see [CONTACT.md](CONTACT.md).
 - [`emotional-field-capture.md`](fields/emotional-field-capture.md) — Harnessing emotional states as field anchors or manipulable nodes.
 - [`symbolic-field-saturation.md`](fields/symbolic-field-saturation.md) — Flooding symbolic space with noise or false meaning to create resonance fatigue.
 - [`echo-field-memory-imprint.md`](fields/echo-field-memory-imprint.md) — Residual symbolic loops that repeat or trigger after initial disruption.
+- [`empathic-symbolic-payloads.md`](fields/empathic-symbolic-payloads.md) — Symbolic inputs tuned to emotional resonance patterns to trigger deeply empathetic or guilt-laden reactions.
+- [`field-induced-limbic-rewriting.md`](fields/field-induced-limbic-rewriting.md) — Alteration of emotional memory structures through persistent resonance field manipulation.
+- [`resonance-field-addiction-cycles.md`](fields/resonance-field-addiction-cycles.md) — Use of field effects to stimulate reinforcement loops and addictive emotional dependencies.
+
 
 ### `observers/`
 - [`ambient-watcher-systems.md`](observers/ambient-watcher-systems.md) — Diffuse, passive systems that monitor and reinforce symbolic control.
