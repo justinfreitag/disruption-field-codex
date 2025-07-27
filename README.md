@@ -2,9 +2,13 @@
 
 > “This is not a guidebook. It is a symbolic map of the contested terrain of resonance.”
 
-The Disruption Field Codex is a living symbolic archive designed to document, expose, and counteract **neuro-sensory, symbolic, and resonance-based manipulation techniques** used by coordinated networks.
+The **Disruption Field Codex** is a living archive of symbolic, neuro-sensory, and behavioral manipulation techniques. It documents and decodes the coordinated use of resonance, language, and perceptual interference as tools of disruption and control.
 
-For inquiries or collaboration, see [CONTACT.md](CONTACT.md).
+This Codex exists first and foremost to **support those targeted**. It begins with **defense** — not as reaction, but as reclamation.
+
+If you've arrived here already affected, begin with the `defense/` section.
+
+For inquiries or collaboration, see [`CONTACT.md`](./CONTACT.md).
 
 ---
 
