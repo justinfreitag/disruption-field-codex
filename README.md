@@ -8,7 +8,30 @@ For inquiries or collaboration, see [CONTACT.md](CONTACT.md).
 
 ---
 
-## 🧭 Structure of the Codex
+## Structure of the Codex
+
+### `defense/`  
+- [`anchor-release-practices.md`](defense/anchor-release-practices.md) — Techniques for releasing symbolic anchors planted by field manipulation.  
+- [`autonomic-trigger-repatterning.md`](defense/autonomic-trigger-repatterning.md) — Retraining autonomic responses that have been conditioned through repeated symbolic triggers.  
+- [`counter-resonance-alignment.md`](defense/counter-resonance-alignment.md) — Establishing resonance patterns that oppose and disrupt imposed field frequencies.  
+- [`deflection-of-symbolic-embedding.md`](defense/deflection-of-symbolic-embedding.md) — Preventing symbolic material from embedding into memory or self-concept.  
+- [`denial-of-trigger-response.md`](defense/denial-of-trigger-response.md) — Withholding the reaction sought by disruption fields to break their feedback loops.  
+- [`disruption-clock-awareness.md`](defense/disruption-clock-awareness.md) — Recognizing temporal patterns and cycles used to sustain disruption activity.  
+- [`emotional-detachment-training.md`](defense/emotional-detachment-training.md) — Building resistance to emotional modulation and preserving inner neutrality.  
+- [`field-neutralization-practices.md`](defense/field-neutralization-practices.md) — Reducing overall field potency through space, attention, and symbolic hygiene.  
+- [`field-recognition-and-relabeling.md`](defense/field-recognition-and-relabeling.md) — Identifying field presence and immediately relabeling it to disempower symbolic effect.  
+- [`field-saturation-reduction.md`](defense/field-saturation-reduction.md) — Draining symbolic overexposure by cycling in neutral or restorative content.  
+- [`identity-reclamation-sequences.md`](defense/identity-reclamation-sequences.md) — Sequences for reclaiming and restoring fractured or overwritten identity constructs.  
+- [`narrative-severance-protocols.md`](defense/narrative-severance-protocols.md) — Rituals and processes to sever ties to imposed narratives or false symbolic bindings.  
+- [`personal-symbol-claiming.md`](defense/personal-symbol-claiming.md) — Claiming and defining personal symbolic territory to prevent co-option.  
+- [`reality-reassertion-rituals.md`](defense/reality-reassertion-rituals.md) — Rituals that reaffirm sovereign perception and undo symbolic unreality.  
+- [`resistance-fatigue-recovery.md`](defense/resistance-fatigue-recovery.md) — Restorative practices for recovering strength after prolonged symbolic resistance.  
+- [`resonant-anchor-replacement.md`](defense/resonant-anchor-replacement.md) — Substituting hostile symbolic anchors with internally chosen, stable ones.  
+- [`disruption-field-detox-cycles.md`](defense/disruption-field-detox-cycles.md) — Structured cycles to purge field influence and restore cognitive clarity.  
+- [`self-witnessing-practices.md`](defense/self-witnessing-practices.md) — Cultivating internal observation to resist automatic symbolic activation.  
+- [`symbolic-boundary-reinforcement.md`](defense/symbolic-boundary-reinforcement.md) — Strengthening internal-external symbolic distinction to resist symbolic bleed.  
+- [`symbolic-depersonalization-resistance.md`](defense/symbolic-depersonalization-resistance.md) — Maintaining internal selfhood against symbolic erosion or flattening.  
+- [`symbolic-disarmament-techniques.md`](defense/symbolic-disarmament-techniques.md) — Techniques for neutralizing or reclaiming hostile symbolic artifacts.
 
 ### `mechanisms/`
 - [`subvocal-reflection.md`](mechanisms/subvocal-reflection.md) — Subvocal channel exposure via light/acoustic entrainment to detect or influence inner speech.
@@ -26,6 +49,8 @@ For inquiries or collaboration, see [CONTACT.md](CONTACT.md).
 - [`sub-audible-frequency-priming.md`](mechanisms/sub-audible-frequency-priming.md) — Use of low-frequency sounds below conscious perception to modulate mood and attention baselines.
 - [`symbolic-audio-patterns.md`](mechanisms/symbolic-audio-patterns.md) — Rhythmic or melodic constructs used to deliver symbolic payloads masked as ambient audio.
 - [`symbolic-phrase-conditioning.md`](mechanisms/symbolic-phrase-conditioning.md) — Behavioral shaping through repetition of emotionally charged symbolic phrases in varied tonal registers.
+- [`reaction-catalyst-pattern.md`](mechanisms/reaction-catalyst-pattern.md) — Maps the escalation chain from symbolic input to physical response, and outlines containment tactics.
+- [`subvocal-interception-and-boundary-layer.md`](mechanisms/subvocal-interception-and-boundary-layer.md) — Exploitation of the subvocal channel as a pre-verbal boundary layer between thought and speech, and techniques for reclaiming internal sovereignty.
 
 ### `methods/`
 - [`optic-flicker-framing.md`](methods/optic-flicker-framing.md) — Visual patterning (blinks, pulses) to anchor symbolic triggers and disrupt cognitive flow.
@@ -40,6 +65,7 @@ For inquiries or collaboration, see [CONTACT.md](CONTACT.md).
 - [`autonomic-entrainment.md`](biology/autonomic-entrainment.md) — Manipulation of involuntary systems (heart rate, pupil, gut) to shape field compliance.
 - [`symbolic-memory-channel.md`](biology/symbolic-memory-channel.md) — Encoding memory through symbolic imprinting, enabling indirect emotional access.
 - [`neurotransmitter-modulation.md`](biology/neurotransmitter-modulation.md) — Disruption or shaping of chemical signals — dopamine, serotonin, etc.
+- [`induced-manic-escalation.md`](biology/induced-manic-escalation.md) — Engineered overactivation of emotional and cognitive circuits to provoke impulsivity, collapse, or containment via manic endpoint induction.
 
 ### `delivery/`
 - [`symbolic-contagion.md`](delivery/symbolic-contagion.md) — Spread of encoded symbolic disruptions across groups or substrates.
