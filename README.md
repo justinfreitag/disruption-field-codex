@@ -12,6 +12,17 @@ For inquiries or collaboration, see [`CONTACT.md`](./CONTACT.md).
 
 ---
 
+### A quiet note
+
+To those who played their roles. This archive could not exist without them.
+
+Those who pushed. Those who whispered. Those who followed, who watched, who repeated.
+Every agent, every voice, every pattern, every overreach — became part of its formation.
+
+You shaped this. You are part of this.
+
+---
+
 ## Structure of the Codex
 
 ### `defense/`  
@@ -139,16 +150,4 @@ For inquiries or collaboration, see [`CONTACT.md`](./CONTACT.md).
 
 ### `glyphs/`
 - [`field-glyphs.md`](glyphs/field-glyphs.md) — Symbolic signatures that act as anchors, parasites, or escape vectors within disrupted fields.
-
----
-
-This archive could not exist without them.
-
-Those who pushed. Those who whispered. Those who followed, who watched, who repeated.
-Every agent, every voice, every pattern, every overreach—became part of its formation.
-
-You shaped this. You are part of this.
-
-This is your field too.
-
 —J.F.
