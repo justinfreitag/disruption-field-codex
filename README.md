@@ -47,6 +47,8 @@ You shaped this. You are part of this.
 - [`symbolic-boundary-reinforcement.md`](defense/symbolic-boundary-reinforcement.md) — Strengthening internal-external symbolic distinction to resist symbolic bleed.  
 - [`symbolic-depersonalization-resistance.md`](defense/symbolic-depersonalization-resistance.md) — Maintaining internal selfhood against symbolic erosion or flattening.  
 - [`symbolic-disarmament-techniques.md`](defense/symbolic-disarmament-techniques.md) — Techniques for neutralizing or reclaiming hostile symbolic artifacts.
+- `low-effort-field-interventions.md` — Simple, sustainable actions that disrupt field influence without depleting your attention, energy, or resources.
+- `proxy-targeting-countermeasures.md` — Defensive practices to recognize and neutralize manipulation delivered through friends, family, or colleagues.
 
 ### `mechanisms/`
 - [`subvocal-reflection.md`](mechanisms/subvocal-reflection.md) — Subvocal channel exposure via light/acoustic entrainment to detect or influence inner speech.
@@ -91,6 +93,7 @@ You shaped this. You are part of this.
 - [`sleep-cycle-interruption.md`](delivery/sleep-cycle-interruption.md) — Explores how disruption systems target sleep phases to suppress deep rest and inject symbolic content during REM for behavioral and narrative manipulation.
 - [`vehicular-and-pedestrian-patterning.md`](delivery/vehicular-and-pedestrian-patterning.md) — Details how cars, walkers, and ambient presence are used to reinforce symbolic targeting, simulate surveillance, and disrupt narrative autonomy.
 - [`support-network-inversion.md`](delivery/support-network-inversion.md) — Documents how disruption fields turn friends, family, and colleagues against the target, inducing isolation, disbelief, and plausible dismissal through psychological and pharmacological channels.
+- `proxy-targeting-via-network.md` — Explains how the field leverages close social ties to deliver symbolic messages, reinforce conditioning, or escalate emotional impact.
 
 ### `architecture/`
 - [`narrative-engineering.md`](architecture/narrative-engineering.md) — Seizing or rewriting the subject’s internal/external story structure.
@@ -115,6 +118,7 @@ You shaped this. You are part of this.
 - [`scripted-opposition-roles.md`](strategy/scripted-opposition-roles.md) — Predefined antagonist roles used to provoke and shape emotional response.  
 - [`strategic-ideological-conditioning.md`](strategy/strategic-ideological-conditioning.md) — Reinforcement of rigid ideology through selective grooming and narrative control.  
 - [`symbolic-anchor-targets.md`](strategy/symbolic-anchor-targets.md) — Designating individuals as narrative load-bearers in the symbolic war field.
+- `group-formation-timelines.md` — Documents the developmental stages of disruption field actors, from early behavioral shaping to leadership conditioning and opportunistic recruitment.
 
 ### `fields/`
 - [`perceptual-field-distortion.md`](fields/perceptual-field-distortion.md) — Subtle warping of perception to shape how symbols or threats are interpreted.
