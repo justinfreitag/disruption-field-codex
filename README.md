@@ -27,7 +27,7 @@ You shaped this. You are part of this.
 
 ### `defense/`  
 - [empathic-resonance-practices.md](defense/empathic-resonance-practices.md) — Cultivating non-entangled empathy as a durable, unstealable defense strategy.
-- - [defense/always-on-voice-assistant-mic-config.md](defense/always-on-voice-assistant-mic-config.md) — Continuous audio capture using always-on voice assistants with omni, unfiltered microphones to detect and deter hostile acoustic delivery.
+- [defense/always-on-voice-assistant-mic-config.md](defense/always-on-voice-assistant-mic-config.md) — Continuous audio capture using always-on voice assistants with omni, unfiltered microphones to detect and deter hostile acoustic delivery.
 - [`anchor-release-practices.md`](defense/anchor-release-practices.md) — Techniques for releasing symbolic anchors planted by field manipulation.  
 - [`autonomic-trigger-repatterning.md`](defense/autonomic-trigger-repatterning.md) — Retraining autonomic responses that have been conditioned through repeated symbolic triggers.  
 - [`counter-resonance-alignment.md`](defense/counter-resonance-alignment.md) — Establishing resonance patterns that oppose and disrupt imposed field frequencies.  
