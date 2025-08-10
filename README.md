@@ -122,6 +122,7 @@ You shaped this. You are part of this.
 - [`strategic-ideological-conditioning.md`](strategy/strategic-ideological-conditioning.md) — Reinforcement of rigid ideology through selective grooming and narrative control.  
 - [`symbolic-anchor-targets.md`](strategy/symbolic-anchor-targets.md) — Designating individuals as narrative load-bearers in the symbolic war field.
 - [`group-formation-timelines.md`](strategy/group-formation-timelines.md) — Documents the developmental stages of disruption field actors, from early behavioral shaping to leadership conditioning and opportunistic recruitment.
+- [environmental-placement-infrastructure.md](strategy/environmental-placement-infrastructure.md) — Strategy for creating and maintaining preconditioned environments designed to host current and future targets, enabling rapid placement, rotation, and sustained field control.
 
 ### `fields/`
 - [`perceptual-field-distortion.md`](fields/perceptual-field-distortion.md) — Subtle warping of perception to shape how symbols or threats are interpreted.
