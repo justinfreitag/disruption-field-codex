@@ -97,6 +97,7 @@ You shaped this. You are part of this.
 - [`vehicular-and-pedestrian-patterning.md`](delivery/vehicular-and-pedestrian-patterning.md) — Details how cars, walkers, and ambient presence are used to reinforce symbolic targeting, simulate surveillance, and disrupt narrative autonomy.
 - [`support-network-inversion.md`](delivery/support-network-inversion.md) — Documents how disruption fields turn friends, family, and colleagues against the target, inducing isolation, disbelief, and plausible dismissal through psychological and pharmacological channels.
 - [`proxy-targeting-via-network.md`](delivery/proxy-targeting-via-network.md) — Explains how the field leverages close social ties to deliver symbolic messages, reinforce conditioning, or escalate emotional impact.
+- [`proxy-infiltration-of-home.md`](delivery/proxy-infiltration-of-home.md) — Embedding actors into domestic space via casual introductions, social groups, and service roles, reframing intrusion as community support.
 
 ### `architecture/`
 - [`narrative-engineering.md`](architecture/narrative-engineering.md) — Seizing or rewriting the subject’s internal/external story structure.
