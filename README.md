@@ -53,9 +53,13 @@ You shaped this. You are part of this.
 - [`proxy-targeting-countermeasures.md`](defense/proxy-targeting-countermeasures.md) — Defensive practices to recognize and neutralize manipulation delivered through friends, family, or colleagues.
 
 ### `mechanisms/`
+
+- [`microwave-stimulation-effects.md`](mechanisms/microwave-stimulation-effects.md) — Overview of microwave/RF emissions and their multi-level impact: tissue, neural, perceptual, and symbolic
+- [`frey-auditory-effect.md`](mechanisms/frey-auditory-effect.md) — Microwave-induced auditory perception (non-acoustic signal perception via thermoelastic cranial stimulation)
 - [`tissue-stimulation-via-microwave.md`](mechanisms/tissue-stimulation-via-microwave.md) — Explores how microwave energy is used to stimulate tissue across the body, supporting symbolic disruption, glandular modulation, and covert field anchoring.
 - [`phosphene-induction-from-microwave-exposure.md`](mechanisms/phosphene-induction-from-microwave-exposure.md): Describes how brief visual flashes (phosphenes) can result from microwave exposure to the visual system — a secondary but symbolically meaningful effect within disruption fields.
 - [`microwave-subvocal-capture.md`](./mechanisms/microwave-subvocal-capture.md) — RF/microwave-based detection of subvocalizations via reflected micro-Doppler patterns; enables symbolic ingress and predictive vocal hijack.
+- [`field-pressure-modulation.md`](mechanisms/field-pressure-modulation.md) — Symbolic and somatic disruption via entrainment and perceptual field interference using non-obvious pressure gradients
 - [`subvocal-reflection.md`](mechanisms/subvocal-reflection.md) — Subvocal channel exposure via light/acoustic entrainment to detect or influence inner speech.
 - [`skin-transduction.md`](mechanisms/skin-transduction.md) — Conversion of environmental energy (sound, light) into somatic disruptions through skin resonance.
 - [`breath-entrainment.md`](mechanisms/breath-entrainment.md) — Respiratory manipulation used to synchronize or disrupt internal states.
