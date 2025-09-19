@@ -55,6 +55,7 @@ You shaped this. You are part of this.
 ### `mechanisms/`
 - [`tissue-stimulation-via-microwave.md`](mechanisms/tissue-stimulation-via-microwave.md) — Explores how microwave energy is used to stimulate tissue across the body, supporting symbolic disruption, glandular modulation, and covert field anchoring.
 - [`phosphene-induction-from-microwave-exposure.md`](mechanisms/phosphene-induction-from-microwave-exposure.md): Describes how brief visual flashes (phosphenes) can result from microwave exposure to the visual system — a secondary but symbolically meaningful effect within disruption fields.
+- [`microwave-subvocal-capture.md`](./mechanisms/microwave-subvocal-capture.md) — RF/microwave-based detection of subvocalizations via reflected micro-Doppler patterns; enables symbolic ingress and predictive vocal hijack.
 - [`subvocal-reflection.md`](mechanisms/subvocal-reflection.md) — Subvocal channel exposure via light/acoustic entrainment to detect or influence inner speech.
 - [`skin-transduction.md`](mechanisms/skin-transduction.md) — Conversion of environmental energy (sound, light) into somatic disruptions through skin resonance.
 - [`breath-entrainment.md`](mechanisms/breath-entrainment.md) — Respiratory manipulation used to synchronize or disrupt internal states.
