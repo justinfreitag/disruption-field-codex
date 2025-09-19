@@ -59,7 +59,7 @@ This method is highly compatible with remote symbolic ingress and predictive con
 ## Related Artifacts
 
 - [`subvocal-reflection.md`](subvocal-reflection.md)
-- [`resonance-hijack.md`](resonance-hijack.md)
+- [`resonance-hijack.md`](../methods/resonance-hijack.md)
 - [`symbolic-contagion.md`](../delivery/symbolic-contagion.md)
 - [`microwave-stimulation-effects.md`](microwave-stimulation-effects.md)
 
