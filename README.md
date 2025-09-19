@@ -53,6 +53,7 @@ You shaped this. You are part of this.
 - [`proxy-targeting-countermeasures.md`](defense/proxy-targeting-countermeasures.md) — Defensive practices to recognize and neutralize manipulation delivered through friends, family, or colleagues.
 
 ### `mechanisms/`
+- [`mechanisms/tissue-stimulation-via-microwave.md`](mechanisms/tissue-stimulation-via-microwave.md) — Explores how microwave energy is used to stimulate tissue across the body — supporting symbolic disruption, glandular modulation, and covert field anchoring.
 - [`subvocal-reflection.md`](mechanisms/subvocal-reflection.md) — Subvocal channel exposure via light/acoustic entrainment to detect or influence inner speech.
 - [`skin-transduction.md`](mechanisms/skin-transduction.md) — Conversion of environmental energy (sound, light) into somatic disruptions through skin resonance.
 - [`breath-entrainment.md`](mechanisms/breath-entrainment.md) — Respiratory manipulation used to synchronize or disrupt internal states.
